@@ -19,7 +19,7 @@ the site.
 /* 
 This variable will change the layout of the website from multipage to single, scrollable page
 */
-export let singlePage = true;
+export let singlePage = false;
 
 /*
 So let's get started! Some of the info below is pretty self-explanatory, like 'firstName' and 'bio'. I'll try to explain anything
